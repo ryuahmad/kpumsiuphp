@@ -1,0 +1,7 @@
+
+# HTID:13921727: DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES BELOW
+AuthType Basic
+AuthName "Restricted Access"
+AuthUserFile "/storage/ssd3/010/12481010/public_html/adminsiu/hasil/.htpasswd"
+Require user ryuahmad
+# DO NOT REMOVE OR MODIFY THIS LINE AND THE LINES ABOVE HTID:13921727:
